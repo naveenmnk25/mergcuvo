@@ -138,7 +138,7 @@ const Product = () => {
         <section id="products">
           <div className="container">
             <div className="py-md-5 py-3">
-              <div className="row  mb-2">
+              <div className="row mb-md-5 mb-3">
                 <div className="col-12 px-0 text-center">
                   <h1 className="text-white text-center heading">Products</h1>
                 </div>
@@ -192,7 +192,7 @@ const Product = () => {
                       </li>
                     </ul>
                     <div
-                      className="tab-content  col-md-9 col-12"
+                      className="tab-content col-md-9 col-12"
                       id="myTabContent3"
                     >
                       <div
@@ -209,7 +209,7 @@ const Product = () => {
                           </p>
                         </div>
                         <Link to={PathConstants.PRODUCTPAGE1}>
-                          <div className="row my-69">
+                          <div className="row">
                             <div className="col-lg-4 col-md-4 col-12 ">
                               <div className="right-border p-md-4">
                                 <div className="row">
@@ -286,7 +286,7 @@ const Product = () => {
                           </p>
                         </div>
                         <Link to={PathConstants.PRODUCTPAGE3}>
-                          <div className="row my-69">
+                          <div className="row">
                             <div className="col-lg-4 col-md-4 col-12 p-md-5 right-border">
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
@@ -348,7 +348,7 @@ const Product = () => {
                           </p>
                         </div>
                         <Link to={PathConstants.PRODUCTPAGE2}>
-                          <div className="row my-69">
+                          <div className="row">
                             <div className="col-lg-4 col-md-4 col-12 p-md-5 right-border">
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">

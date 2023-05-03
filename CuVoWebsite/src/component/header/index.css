@@ -61,12 +61,13 @@
 #header .btn-outline-primary {
   font-family: "Poppins";
   font-style: normal;
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 600 !important;
+  font-size: 14px !important;
   padding: 9px 18px;
-  line-height: 17px;
+  line-height: 21px !important;
   text-transform: uppercase;
   height: 34px;
+  color: #2858D3;
 }
 
 #header .btn-primary {
@@ -100,3 +101,4 @@
 #header .btn-primary {
   height: 34px;
 }
+

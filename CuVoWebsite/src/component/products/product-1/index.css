@@ -18,12 +18,8 @@
     color: #092146;
 }
 
-#overview .overview-title h3 {
-    font-family: "Poppins" !important;
-}
-
-#overview .overview-title p {
-    color: #092146;
+.overview-title p {
+    color: #040000;
     opacity: 0.6;
 }
 
@@ -73,8 +69,7 @@
     line-height: 66px !important;
     width: 100% !important;
     font-weight: 600 !important;
-    font-family: "Poppins";
-    color: #092146;
+
 }
 
 .explore-sec .col-5 {
@@ -82,7 +77,7 @@
 }
 
 .explore-sec a {
-    /* width: 100%; */
+    width: 100%;
 }
 
 .explore-sec .btn {
@@ -99,8 +94,6 @@
 
 .explore-sec p {
     opacity: 0.5;
-    font-family: "Kumbh Sans";
-    color: #092146;
 }
 
 .mobile-tab .tab-content .desc {
@@ -142,14 +135,9 @@ ul.navbar-nav .nav-link {
 }
 
 #scrollspyall .navbar-light .navbar-nav .nav-link.active {
-    color: #2858D3 !important;
+    color: rgb(40 88 211);
     font-weight: 600;
     border-bottom: 3px solid;
-}
-
-#scrollspyall .navbar-light .navbar-nav .nav-link {
-    color: #092146 !important;
-    font-family: "Poppins" !important;
 }
 
 /* changes */

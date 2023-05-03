@@ -92,7 +92,7 @@ const ProductThree = () => {
                                             aria-selected="false">TELEVISION</a>
                                     </li>
                                 </ul>
-                                <div className="tab-content col-10 h-530p" id="myTabContent3">
+                                <div className="tab-content col-10 " id="myTabContent3">
                                     <div className="tab-pane fade show active mobile-tab" id="home-vertical" role="tabpanel"
                                         aria-labelledby="home-vertical-tab">
                                         <div className="row">
@@ -149,13 +149,13 @@ const ProductThree = () => {
                                                     metus. Suspendisse sit amet neque turpis. Suspendisse interdum purus nec neque
                                                     pharetra, nec dapibus massa interdum.</p>
                                                 <div className="d-flex justify-content-between">
-                                                    <div className="d-flex flex-column px-5 right-border">
+                                                    <div className="d-flex flex-column p-5 right-border">
                                                         <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                         <h5 className="text-white">Mobile App</h5>
                                                         <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                             convallis elementum, nisi erat </p>
                                                     </div>
-                                                    <div className="d-flex flex-column px-5 right-border">
+                                                    <div className="d-flex flex-column p-5 right-border">
                                                         <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                         <h5 className="text-white">Mobile App</h5>
                                                         <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
@@ -187,13 +187,13 @@ const ProductThree = () => {
                                                     metus. Suspendisse sit amet neque turpis. Suspendisse interdum purus nec neque
                                                     pharetra, nec dapibus massa interdum.</p>
                                                 <div className="d-flex justify-content-between">
-                                                    <div className="d-flex flex-column px-5 right-border">
+                                                    <div className="d-flex flex-column p-5 right-border">
                                                         <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                         <h5 className="text-white">Mobile App</h5>
                                                         <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                             convallis elementum, nisi erat </p>
                                                     </div>
-                                                    <div className="d-flex flex-column px-5 right-border">
+                                                    <div className="d-flex flex-column p-5 right-border">
                                                         <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                         <h5 className="text-white">Mobile App</h5>
                                                         <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut

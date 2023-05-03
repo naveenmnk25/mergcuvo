@@ -36,7 +36,6 @@ hr {
   height: 71px;
   padding: 0;
 }
-
 #header a {
   color: #2858d3;
 }
@@ -155,7 +154,7 @@ hr {
   font-weight: 700;
   font-size: 44px;
   line-height: 55px;
-  color: #040000;
+  color: #092146;
 }
 
 /* #secondPage img {
@@ -168,7 +167,7 @@ hr {
   font-weight: 500;
   font-size: 18px;
   line-height: 27px;
-  color: #040000;
+  color: #092146;
   opacity: 0.5;
 }
 
@@ -219,7 +218,7 @@ hr {
   font-weight: 500;
   font-size: 14px;
   line-height: 23px;
-  color: #040000;
+  color: #092146;
   opacity: 0.5;
   margin-top: 6px;
   margin-bottom: 0px;
@@ -255,7 +254,7 @@ hr {
   font-size: 16px;
   line-height: 26px;
   text-align: center !important;
-  color: #040000;
+  color: #092146;
   opacity: 0.6;
   padding: 0 100px;
 }
@@ -264,12 +263,13 @@ hr {
   width: 322px;
   text-align: center;
   font-weight: 600;
-  color: #040000;
+  color: #092146;
   border-bottom: 1px solid #b1b1b1;
   border-right: 0px solid #b1b1b1;
   font-size: 18px;
   line-height: 20px;
   height: 84px;
+  font-family: 'Poppins';
 }
 
 .border-right-0 {
@@ -331,7 +331,7 @@ hr {
   font-size: 23px;
   line-height: 27px;
   text-transform: uppercase;
-  color: #040000;
+  color: #092146;
   min-height: 55px;
 }
 
@@ -341,7 +341,7 @@ hr {
   font-weight: 500;
   font-size: 14px;
   line-height: 23px;
-  color: #040000;
+  color: #092146;
   opacity: 0.5;
 }
 
@@ -383,13 +383,9 @@ hr {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 21px;
+  line-height: 20px;
   color: #092146;
   opacity: 0.6;
-}
-
-#products .tab-content .desc {
-  font-family: "Kumbh Sans" !important;
 }
 
 .tab-content h5 {
@@ -403,17 +399,13 @@ hr {
 }
 
 .tab-content .productDesc {
-  font-family: "Kumbh Sans";
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 18px;
   color: #092146;
   opacity: 0.6;
-}
-
-.h-530p {
-  height: 536px !important;
 }
 
 .tab-vertical .nav.nav-tabs {
@@ -455,6 +447,7 @@ hr {
   font-size: 18px;
   line-height: 20px;
   border-radius: 0px;
+  font-family: 'Poppins';
 }
 
 .tab-vertical .tab-content {
@@ -513,7 +506,7 @@ hr {
   font-weight: 700;
   font-size: 14px;
   line-height: 21px;
-  color: #000000;
+  color: #092146;
 }
 
 .auhordesc {
@@ -544,7 +537,7 @@ hr {
   font-weight: 500;
   font-size: 14px;
   line-height: 22px;
-  color: #040000;
+  color: #092146;
   opacity: 0.6;
 }
 
@@ -568,7 +561,7 @@ hr {
   font-weight: 500;
   font-size: 14px;
   line-height: 30px;
-  color: #040000;
+  color: #092146;
 }
 
 #contact .btn1 {
@@ -630,7 +623,7 @@ hr {
   font-size: 14px;
   line-height: 21px;
   opacity: 0.6;
-  font-family: "Poppins", sans-serif !important;
+  font-family: 'Kumbh Sans' !important;
 }
 
 #afterproducts p.auhordesc {
@@ -638,6 +631,7 @@ hr {
   font-size: 12px;
   line-height: 18px;
   opacity: 0.5;
+  font-family: 'Poppins' !important;
 }
 
 .scrollspyall .navbar {
@@ -715,8 +709,8 @@ hr {
 }
 
 #product-name .right-border {
-  border-right: 1px solid rgba(255, 255, 255, 0.4);
-
+  border-right: 1px solid rgba(255, 255,255, 0.4);
+  
 }
 
 #capability .card img {
@@ -801,15 +795,17 @@ hr {
   font-weight: 600;
   font-size: 14px;
   line-height: 21px;
-  color: #000000;
+  color: #092146;
   opacity: 0.6;
+  font-family: 'Poppins';
 }
 
 #resources .redefin {
   font-weight: 600;
   font-size: 20px;
   line-height: 26px;
-  color: #000000;
+  color: #092146;
+  font-family: 'Poppins';
 }
 
 #resources .readme {
@@ -848,14 +844,13 @@ hr {
 }
 
 #product-name .tab-content .desc {
-  margin-bottom: 57px;
+  margin-bottom: 45px;
   margin-top: 14px;
   font-weight: 500;
   font-size: 14px;
   line-height: 21px;
   color: #ffffff;
   opacity: 0.6;
-  font-family: "Kumbh Sans";
 }
 
 /* mobile responsive css  */

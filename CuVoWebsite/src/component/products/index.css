@@ -27,21 +27,18 @@
 }
 
 .capabilities-des {
-    font-family: "Kumbh Sans";
-    color: #092146;
+    color: #040000;
     opacity: 0.6;
     padding-top: 0.4em;
-    font-weight: 500;
-    line-height: 26px;
 }
 
 .capabilities-card {
-    color: #092146;
+    color: #040000;
     font-size: 19px;
 }
 
 .card-dec {
-    color: #092146;
+    color: #040000;
     opacity: 0.5 !important;
 }
 
@@ -87,7 +84,7 @@
 }
 
 .tab-vertical .nav-tabs .nav-link {
-    padding: 29px 49px;
+    padding: 20px 49px;
 }
 
 .capability-sec .py-lg-5 {
@@ -118,8 +115,4 @@
 
 #form a {
     color: #2858D3 !important;
-}
-
-.my-69 {
-    margin: 69px 0;
 }

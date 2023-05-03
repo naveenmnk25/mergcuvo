@@ -82,3 +82,42 @@ button.btn.btn-primary.book-demo-submt-btn {
     max-width: 100%;
     height: auto;
 } */
+
+#contact .heading {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 55px;
+    font-family: 'Poppins';
+    color: #092146 !important;
+}
+
+#contact .contacttext {
+    font-family: 'Poppins' !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #092146;
+    opacity: 0.5;
+}
+
+#contact label.brand-checkbox-label {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #092146;
+}
+
+#contact a {
+    color: #2858D3;
+}
+
+#contact button.btn.btn-primary.book-demo-submt-btn {
+    font-family: 'Kumbh Sans' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    line-height: 17px !important;
+}
