@@ -1,0 +1,192 @@
+.send-feedback-image-40 {
+    width: 30px;
+    height: 26px;
+}
+
+.mobile-first-UX-image-50 {
+    margin-bottom: 12px;
+}
+
+.product-detail-banner {
+    background-image: url(../../../../public/assets/images/home/img_product_details.png) !important;
+}
+
+.overview-title h3 {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 55px;
+    color: #092146;
+}
+
+#overview .overview-title h3 {
+    font-family: "Poppins" !important;
+}
+
+#overview .overview-title p {
+    color: #092146;
+    opacity: 0.6;
+}
+
+/* .product-nav li.nav-item{
+    width: 144px;
+} */
+
+.mobile-tab .right-border {
+    height: 167px;
+}
+
+.mobile-row .img-sto {
+    margin-right: 4px;
+    padding: 4px;
+
+}
+
+.mb-app {
+    color: "#ffffff" !important;
+}
+
+.capability-sec h2 {
+    color: #040000;
+}
+
+.capability-sec .px-md-5 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #040000;
+    opacity: 0.6;
+}
+
+.capability-sec .card-title {
+    color: #040000;
+}
+
+.capability-sec .card-body p {
+    opacity: 0.5;
+    color: #040000;
+}
+
+.explore-sec h2 {
+    margin-top: 30px !important;
+    font-size: 43px !important;
+    line-height: 66px !important;
+    width: 100% !important;
+    font-weight: 600 !important;
+    font-family: "Poppins";
+    color: #092146;
+}
+
+.explore-sec .col-5 {
+    margin-top: 50px;
+}
+
+.explore-sec a {
+    /* width: 100%; */
+}
+
+.explore-sec .btn {
+    width: 91% !important;
+    padding: 13px;
+    margin-right: 33px;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.explore-sec p {
+    opacity: 0.5;
+    font-family: "Kumbh Sans";
+    color: #092146;
+}
+
+.mobile-tab .tab-content .desc {
+    margin-bottom: 45px !important;
+    margin-top: 14px !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+    color: #FFFFFF !important;
+    opacity: 0.6 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+}
+
+.case-stu-section .card-body .align-items-center .pe-0 {
+    flex: 0 0 auto;
+    width: 22.666667%;
+}
+
+.read-more-btn {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+}
+
+#scrollspyall .navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+ul.navbar-nav .nav-link {
+    padding: 0rem 0rem;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+#scrollspyall .navbar-light .navbar-nav .nav-link.active {
+    color: #2858D3 !important;
+    font-weight: 600;
+    border-bottom: 3px solid;
+}
+
+#scrollspyall .navbar-light .navbar-nav .nav-link {
+    color: #092146 !important;
+    font-family: "Poppins" !important;
+}
+
+/* changes */
+
+.col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.child1 {
+    color: white;
+    padding: 0 18px;
+}
+
+
+/* changes */
+
+.overview_img .img-fluid {
+    max-width: 100%;
+    height: 311px;
+    width: 467px;
+}
+
+#capability .card {
+    border: 1px solid #DADFDF !important;
+}
+
+.explore-sec h2 {
+    text-align: left;
+}
+
+
+
+#explore .btn {
+    width: 200px !important;
+}

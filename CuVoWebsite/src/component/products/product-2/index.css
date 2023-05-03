@@ -1,0 +1,22 @@
+.send-feedback-image-40 {
+    width: 30px;
+    height: 26px;
+}
+
+.mobile-first-UX-image-50 {
+    margin-bottom: 12px;
+}
+
+.product-detail-banner {
+    background-image: url(../../../../public/assets/images/home/img_product_details.png) !important;
+}
+
+.explore-sec h2 {
+    text-align: left;
+}
+
+
+
+#explore .btn {
+    width: 200px !important;
+}

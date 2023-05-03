@@ -1,0 +1,191 @@
+.me-2-image-40 {
+  width: 30px;
+  height: 26px;
+}
+
+.aboutus-banner {
+  background-image: url(../../../public/assets/images/home/img_About.png) !important;
+}
+
+.about-us-text {
+  font-family: "Poppins" !important;
+  font-style: normal;
+}
+
+.about-us-text-sub-heading {
+  font-family: "Poppins" !important;
+  width: 737px;
+}
+
+.about-us-watch-btn {
+  margin-top: 26px !important;
+}
+
+.digital-text-heading {
+  font-family: "Poppins";
+  font-style: normal;
+}
+
+.digital-spacing-text {
+  padding-left: 194px !important;
+  padding-right: 193px !important;
+}
+
+.leadership-team-text {
+  text-align: center;
+  line-height: 55px;
+  font-weight: 700;
+  font-size: 44px;
+  font-family: "Poppins" !important;
+  font-style: normal;
+}
+
+.leadership-team-sub-text-heading {
+  font-family: "Poppins" !important;
+  font-style: normal;
+  margin: 0;
+}
+
+.join-team-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700 !important;
+}
+
+.info-cuvo-btn {
+  border-color: #2858d3 !important;
+}
+
+#operating {
+  background: #eef1f7;
+}
+
+.pL-83 {
+  padding-left: 83px;
+  padding-right: 83px;
+}
+
+.pT-87 {
+  padding-top: 87px;
+}
+
+.pT-67 {
+  padding-top: 50px;
+}
+
+.pT-94 {
+  padding-top: 100px;
+}
+
+.operating-principle-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 55px;
+  color: #092146;
+}
+
+.operating-principle-sub-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #040000;
+  opacity: 0.6;
+}
+
+.operating-principle-list-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #092146;
+}
+
+.mb-6 {
+  margin-bottom: 4rem !important;
+}
+
+.card img {
+  border-radius: 8px;
+}
+
+.card {
+  border-radius: 12px;
+  border: 1px solid #DADFDF;
+}
+
+.card-title {
+  margin-bottom: 0px;
+}
+
+.pb-6 {
+  padding-bottom: 5rem !important;
+}
+
+
+/* changes*/
+
+.child1 h1 {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 60px;
+  font-family: 'Kumbh Sans';
+  margin-bottom: 0;
+  text-align: left !important;
+}
+
+.child1 {
+  text-align: left !important;
+}
+
+.child1 p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22.32px;
+  font-family: 'Kumbh Sans' !important;
+  opacity: 0.8;
+  margin-top: 1rem !important;
+}
+
+button.btn.btn-primary.about-us-watch-btn {
+  height: 44px;
+}
+
+/* .row > .col-4:nth-child(2) > div > p {
+    padding-bottom: 1.4em;
+}
+
+.row > .col-4:nth-child(3) > div > p {
+    padding-bottom: 1.4em;
+} */
+
+.card-title {
+  color: #092146;
+}
+
+img.m-auto.img-fluid {
+  height: 440px;
+  width: 296px !important;
+}
+
+h1.pb-3.fw-bold.join-team-text {
+  font-family: 'Kumbh Sans';
+  line-height: 60px;
+}
+
+#join-team .btn-secondary {
+  height: 44px;
+}
+
+/* card border changes*/
+
+#digital .card {
+  border: none;
+  height: 325px;
+}

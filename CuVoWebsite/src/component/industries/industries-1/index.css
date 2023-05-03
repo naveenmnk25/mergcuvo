@@ -1,0 +1,319 @@
+.send-feedback-image-40 {
+  width: 30px;
+  height: 26px;
+}
+
+.img-fluid-image-40 {
+  width: 100%;
+  height: 489px !important;
+}
+
+.img-fluid-image-ellipse-7 {
+  width: 44px;
+  height: 44px;
+}
+
+.btn-primary-read-more-btn {
+  width: 149px !important;
+  height: 44px !important;
+  background: #ffffff !important;
+  color: #2858d3;
+  border: 1px solid #2858d3;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  border-radius: 4px;
+}
+
+.card-ebook {
+  background: url(../../../../public/assets/images/icon/bg_ebook.png) no-repeat;
+  background-size: cover;
+}
+
+.bgebook3 {
+  background: url(../../../../public/assets/images/icon/bg_ebook_3.png) no-repeat !important;
+  background-size: cover !important;
+}
+
+.Whitelineimg {
+  background: url(../../../../public/assets/images/icon/bg_ebook_2.png) no-repeat;
+  background-size: cover;
+}
+
+.card-ebook::after {
+  content: "";
+  background-color: #2858d3;
+}
+
+.row-whitepapers {
+  padding-top: 25px;
+}
+
+.card-ebook-second {
+  background: #092146;
+  border: none;
+}
+
+.industries-detail-banner {
+  background-image: url(../../../../public/assets/industries-detail.png) !important;
+}
+
+.media-text-spacing {
+  padding-left: 301px !important;
+  padding-right: 304px !important;
+}
+
+.media-text-heading {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.media-text-sub-heading {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center !important;
+  color: #ffffff;
+  opacity: 0.8;
+  width: 793px;
+  margin-bottom: 36px;
+}
+
+.media-text-sub-heading-spacing {
+  padding-left: 263px !important;
+  padding-right: 276px !important;
+}
+
+.learn-more-btn-text {
+  font-family: "Poppins", sans-serif !important;
+  font-style: normal !important;
+}
+
+.overview-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.overview-text-heading {
+  font-family: "Poppins" !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 55px;
+  color: #092146;
+}
+
+.overview-text-sub-heading {
+  font-family: "Poppins", sans-serif !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #040000;
+  opacity: 0.6;
+}
+
+#usecases {
+  background: #eef1f7 !important;
+}
+
+.use-case-text-heading {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 55px;
+  color: #092146;
+}
+
+.use-case-nav-link {
+  padding-top: 19px;
+}
+
+.tab-content-overview {
+  padding-top: 36px;
+}
+
+.tab-content-overview-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 39px;
+  color: #040000;
+}
+
+.tab-content-overview-sub-text {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #040000;
+  opacity: 0.6;
+}
+
+.doc-text {
+  line-height: 20px;
+  color: #040000;
+}
+
+#usecases .btn {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.afterproducts-case-study-text {
+  color: #092146;
+}
+
+.afterproducts-case-study-sub-text {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center !important;
+  color: #040000;
+  opacity: 0.6;
+}
+
+.blogs-card-body {
+  padding-top: 30px;
+  padding-left: 28px;
+  padding-right: 29px;
+}
+
+.blogs-image-text-section {
+  padding-top: 24px;
+}
+
+.blogs-card-footer-text {
+  padding-left: 0px;
+}
+
+.resources-heading-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 54px;
+  text-align: center;
+  color: #092146 !important;
+}
+
+.resources-heading-text-spacing {
+  padding-top: 39px;
+  padding-bottom: 27px;
+}
+
+.resource-ebook-first-box {
+  padding-top: 88px;
+  padding-left: 29px;
+}
+
+.read-more-text-first-box {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.resource-whitepaper-first-box {
+  padding-top: 57px;
+  padding-left: 28px;
+}
+
+.resource-whitepaper-first-box-read-more-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #2858d3;
+}
+
+.resource-view-all-btn {
+  padding-top: 39px;
+  padding-bottom: 95px;
+}
+
+.resource-view-all-btn-text {
+  font-family: "Poppins", sans-serif !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+  text-align: center !important;
+  text-transform: uppercase !important;
+  color: #ffffff !important;
+  width: 200px;
+}
+
+button.btn.btn-primary.learn-more-btn-text {
+  width: 200px;
+  height: 44px;
+  font-family: 'Kumbh Sans' !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+}
+
+h2.text-center.mb-4.use-case-text-heading {
+  text-align: center;
+}
+
+.nav-tabs .nav-link {
+  margin-bottom: -1px;
+  background: 0 0;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  border-right: 1px solid #b1b1b1;
+}
+
+.nav-tabs .nav-link {
+  border-right: 0;
+}
+
+button.btn.btn-primary {
+  width: 200px;
+  height: 44px;
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.card {
+  border: 1px solid #2858D3;
+}
+
+.brand-checkbox {
+  margin-top: 1px !important;
+}
+
+.form-control {
+  border: 1px solid #DADFDF;
+}
+
+.banner industries-detail-banner .child1 {
+  text-align: center !important;
+}

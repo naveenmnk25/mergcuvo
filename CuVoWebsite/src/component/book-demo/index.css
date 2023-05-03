@@ -1,0 +1,22 @@
+.brand-checkbox {
+  width: 14px;
+  height: 14px;
+  border-radius: 2px;
+  margin-top: 2px;
+}
+
+.brand-checkbox-label {
+    margin: 0 14px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+.book-demo-submt-btn {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding: 14px 115px;
+    line-height: 21px !important;
+    font-weight: 600 !important;
+}

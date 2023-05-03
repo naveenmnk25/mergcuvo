@@ -1,0 +1,22 @@
+.brand-input-box {
+    border-radius: 12px;
+    height: 55px;
+    padding: 13px 21px;
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 400;
+    border: 1px solid #DADFDF;
+}
+
+.brand-label {
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 500;
+}
+
+.brand-error-msg {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    color: red;
+}

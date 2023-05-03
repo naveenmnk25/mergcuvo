@@ -1,0 +1,84 @@
+.img-fluid-map-image {
+    width: 635px;
+    height: 751px;
+    margin-top: -50px;
+}
+
+.contact-us-text {
+    color: #040000 !important;
+}
+
+.agree-text-label {
+    font-family: 'Kumbh Sans' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 15px !important;
+}
+
+.privacy-text {
+    color: #2858D3 !important;
+    text-decoration: underline !important;
+}
+
+.address-popup {
+    width: 303px;
+    height: 230.3px;
+    left: 1284px;
+    top: 177px;
+
+    background: #2858D3;
+    box-shadow: 0px 12px 24px rgba(9, 33, 70, 0.5);
+    border-radius: 12px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.contact-us-pT-45 {
+    padding-top: 45px;
+    padding-left: 118px;
+}
+
+/* .contact-us-form-pT-22 {
+    padding-top: 22px;
+}
+ */
+/* .contact-us-form-check-pT-28 {
+    padding-top: 28px;
+}
+ */
+.contact-us-form-submit-btn {
+    padding-left: 140px;
+}
+
+.btn1 {
+    font-family: 'Kumbh Sans' !important;
+}
+
+/* changes */
+
+#contact .brand-checkbox {
+    margin-top: -12px !important;
+}
+
+label.brand-checkbox-label {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+button.btn.btn-primary.book-demo-submt-btn {
+    width: 282px;
+    height: 44px;
+    font-family: 'Kumbh Sans' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    line-height: 17px !important;
+}
+
+/* .img-fluid {
+    max-width: 100%;
+    height: auto;
+} */

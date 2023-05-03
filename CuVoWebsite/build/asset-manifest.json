@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a47a966.css",
+    "main.js": "/static/js/main.4f9df7dc.js",
+    "static/js/787.71ac5cf6.chunk.js": "/static/js/787.71ac5cf6.chunk.js",
+    "static/media/bannergif.gif": "/static/media/bannergif.97ece88ee71683c730d0.gif",
+    "static/media/industries-detail.png": "/static/media/industries-detail.d0a30924e5c74b640488.png",
+    "static/media/img_home.png": "/static/media/img_home.14c5957322eeb3d886ff.png",
+    "static/media/img_product_details.png": "/static/media/img_product_details.71dedfa51599e7f5c1c8.png",
+    "static/media/img_About.png": "/static/media/img_About.60c05cb608db8d349919.png",
+    "static/media/bg_ebook_2.png": "/static/media/bg_ebook_2.81310d33d616b1c82d77.png",
+    "static/media/bg_ebook.png": "/static/media/bg_ebook.28982a6753411fed3ff7.png",
+    "static/media/bg_ebook_3.png": "/static/media/bg_ebook_3.949ba566c5283f1b0718.png",
+    "index.html": "/index.html",
+    "main.7a47a966.css.map": "/static/css/main.7a47a966.css.map",
+    "main.4f9df7dc.js.map": "/static/js/main.4f9df7dc.js.map",
+    "787.71ac5cf6.chunk.js.map": "/static/js/787.71ac5cf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a47a966.css",
+    "static/js/main.4f9df7dc.js"
+  ]
+}

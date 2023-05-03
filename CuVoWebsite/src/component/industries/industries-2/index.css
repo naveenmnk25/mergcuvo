@@ -1,0 +1,264 @@
+.send-feedback-image-40 {
+    width: 30px;
+    height: 26px;
+}
+
+.img-fluid-image-40 {
+    width: 100%;
+    height: 489px !important;
+}
+
+.img-fluid-image-ellipse-7 {
+    width: 44px;
+    height: 44px;
+}
+
+.btn-primary-read-more-btn {
+    width: 149px !important;
+    height: 44px !important;
+    background: #FFFFFF !important;
+    color: #2858D3;
+    border: 1px solid #2858D3;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.card-ebook {
+    background-color: #2858D3;
+}
+
+.row-whitepapers {
+    padding-top: 25px;
+}
+
+.card-ebook-second {
+    background: #092146;
+}
+
+.industries-detail-banner {
+    background-image: url(../../../../public/assets/industries-detail.png) !important;
+}
+
+/* .media-text-spacing {
+    padding-left: 437px !important;
+    padding-right: 437px !important;
+} */
+
+.media-text-heading {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.media-text-sub-heading {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+    width: 793px;
+    margin-bottom: 36px;
+}
+
+/* .media-text-sub-heading-spacing {
+    padding-left: 323px !important;
+    padding-right: 324px !important;
+} */
+
+.learn-more-btn-text {
+    font-family: 'Kumbh Sans' !important;
+    font-style: normal !important;
+}
+
+.overview-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.overview-text-heading {
+    font-family: 'Poppins' !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 55px;
+    color: #092146;
+}
+
+.overview-text-sub-heading {
+    font-family: 'Kumbh Sans' !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #040000;
+    opacity: 0.6;
+}
+
+#usecases {
+    background: #EEF1F7 !important;
+}
+
+.use-case-text-heading {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 55px;
+    color: #092146;
+}
+
+.use-case-nav-link {
+    padding-top: 19px;
+}
+
+.tab-content-overview {
+    padding-top: 36px;
+}
+
+.tab-content-overview-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 39px;
+    color: #040000;
+}
+
+.tab-content-overview-sub-text {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #040000;
+    opacity: 0.6;
+}
+
+.doc-text {
+    line-height: 20px;
+    color: #040000;
+}
+
+#usecases .btn {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.afterproducts-case-study-text {
+    color: #092146;
+}
+
+.afterproducts-case-study-sub-text {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #040000;
+    opacity: 0.6;
+}
+
+.blogs-card-body {
+    padding-top: 30px;
+    padding-left: 28px;
+    padding-right: 29px;
+}
+
+.blogs-image-text-section {
+    padding-top: 30px;
+}
+
+.blogs-card-footer-text {
+    padding-left: 0px;
+}
+
+.resources-heading-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 51px;
+    text-align: center;
+    color: #040000;
+}
+
+.resources-heading-text-spacing {
+    padding-top: 69px;
+    padding-bottom: 27px;
+}
+
+.resource-ebook-first-box {
+    padding-top: 88px;
+    padding-left: 29px;
+}
+
+.read-more-text-first-box {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.resource-whitepaper-first-box {
+    padding-top: 57px;
+    padding-left: 28px;
+}
+
+.resource-whitepaper-first-box-read-more-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #2858D3;
+}
+
+.resource-view-all-btn {
+    padding-top: 39px;
+    padding-bottom: 95px;
+
+}
+
+.resource-view-all-btn-text {
+    font-family: 'Kumbh Sans' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    line-height: 17px !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    color: #FFFFFF !important;
+    width: 200px;
+}
+
+#afterproducts .card {
+    border: 1px solid #DADFDF;
+}
+
+.card-ebook-second {
+    border: none;
+}
+
+/* aligned button to center */
+
+section.banner.industries-detail-banner .text-center {
+    text-align: center !important;
+}

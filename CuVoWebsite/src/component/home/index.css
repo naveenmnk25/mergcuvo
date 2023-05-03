@@ -1,0 +1,250 @@
+.img-1 {
+  width: "80%";
+}
+
+.mobile-app-ios {
+  margin-bottom: 12px;
+}
+
+.browser-chrome {
+  margin-bottom: 12px;
+}
+
+.img-fluid-group-2319 {
+  width: 530px;
+}
+
+.btn-primary-read-more-btn {
+  width: 300px;
+  height: 40px;
+}
+
+.img-fluid-ellipse-7 {
+  width: 44px;
+  height: 44px;
+}
+
+.img-fluid-image-14 {
+  width: 100%;
+  height: 430px;
+}
+
+.img-fluid-image-50 {
+  margin-bottom: 12px;
+  width: 66px;
+  height: 66px;
+}
+
+.img-fluid-rectangle-2 {
+  width: 95%;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.home-page-banner {
+  /* background-image: url(../../../public/assets/img_home.png) !important; */
+  background-image: url(../../../public/assets/bannergif.gif) !important;
+  position: relative;
+}
+
+.home-page-banner::before {
+  position: absolute;
+  content: "";
+  display: inline-block;
+  background: #2858d3;
+  opacity: 0.67;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: multiply;
+}
+
+.home-page-banner>.container {
+  z-index: 1;
+  position: relative;
+}
+
+.meet-customer-cuvo {
+  /* padding-left: 25px !important; */
+}
+
+.modal-dialog {
+  max-width: 700px !important;
+}
+
+.cuvo-video-section {
+  margin-left: -16px;
+  padding: 62px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.modal-content {
+  height: 540px;
+  width: 1000px;
+}
+
+.modal-close-icon {
+  width: 30px;
+  /* height: 20px; */
+  padding-left: -7px;
+  /* margin-left: 129px; */
+  position: relative;
+  left: 93%;
+  top: 5px;
+}
+
+.box {
+  width: 20%;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 35px;
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  background-clip: padding-box;
+  text-align: center;
+}
+
+.button {
+  font-size: 1em;
+  padding: 10px;
+  color: #fff;
+  border: 2px solid orange;
+  border-radius: 20px/50px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+
+.button:hover {
+  background: orange;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.popup .close:hover {
+  color: orange;
+}
+
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+.cuvo-second-video-section {
+  border: 1px solid;
+  margin-top: 18px;
+}
+
+.first-home-video {
+  cursor: pointer;
+}
+
+.close-video-image {
+  width: 44px;
+  height: 44px;
+  position: relative;
+  top: -40%;
+}
+
+.modal-dialog {
+  padding-top: 96px !important;
+  padding-left: 205px !important;
+  padding-right: 235px;
+  margin: 0px !important;
+}
+
+/* .second-video-image {
+  cursor: pointer;
+} */
+
+.copy-paste-image {
+  margin-bottom: 12px;
+  width: 46.64px;
+  height: 60px;
+}
+
+.mt-6 {
+  margin-top: 4rem;
+}
+
+
+.stickyDiv {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  transition: all 5s ease-in-out;
+}
+
+.unstickyDiv {
+  transition: all 5s ease-in;
+}
+
+section#secondPage {
+  margin: 35px 0;
+}
+
+
+/* h1 font family */
+
+section.banner.home-page-banner .child1 h1 {
+  font-family: 'Poppins'!important;
+}
+
+#header button.btn.btn-primary {
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  border: 1px solid #2858d3;
+}
+
+
+section.banner.home-page-banner .child1 p {
+    font-family: "Poppins"!important;
+}
